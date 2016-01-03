@@ -1,0 +1,8 @@
+bin/
+obj/
+obj/test/
+test-bin/
+
+*.kdev*
+*.o
+mat
